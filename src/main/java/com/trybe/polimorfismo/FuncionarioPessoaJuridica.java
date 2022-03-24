@@ -1,6 +1,6 @@
 package com.trybe.polimorfismo;
 
-/** Initial */
+/** Init. */
 public class FuncionarioPessoaJuridica extends Funcionario {
 
   public double calcularSalarioLiquido() {

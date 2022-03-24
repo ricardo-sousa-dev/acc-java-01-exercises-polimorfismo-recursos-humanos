@@ -1,6 +1,6 @@
 package com.trybe.polimorfismo;
 
-/** Initial */
+/** Init. */
 public abstract class Funcionario {
   String nome;
   String cpf;
@@ -31,5 +31,4 @@ public abstract class Funcionario {
   }
 
   public abstract double calcularSalarioLiquido();
-  ;
 }
